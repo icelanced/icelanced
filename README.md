@@ -13,10 +13,6 @@
       <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;
-    <a href="https://github.com/icelanced" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
     <a href="mailto:makszavtra@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -24,7 +20,7 @@
 
   <br/>
 
-  <h3> Стек технологий</h3>
+  <h3>🛠 Стек технологий</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
